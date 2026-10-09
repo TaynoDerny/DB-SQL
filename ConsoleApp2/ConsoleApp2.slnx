@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../../../Documents/Visual Studio 18/Database1/Database1.sqlproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="ConsoleApp2/ConsoleApp2.csproj" />
+</Solution>
