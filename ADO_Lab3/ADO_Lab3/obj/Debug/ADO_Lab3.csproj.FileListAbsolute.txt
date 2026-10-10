@@ -1,0 +1,7 @@
+C:\Users\kiril\source\repos\ADO_Lab3\ADO_Lab3\bin\Debug\ADO_Lab3.exe.config
+C:\Users\kiril\source\repos\ADO_Lab3\ADO_Lab3\bin\Debug\ADO_Lab3.exe
+C:\Users\kiril\source\repos\ADO_Lab3\ADO_Lab3\bin\Debug\ADO_Lab3.pdb
+C:\Users\kiril\source\repos\ADO_Lab3\ADO_Lab3\obj\Debug\ADO_Lab3.csproj.AssemblyReference.cache
+C:\Users\kiril\source\repos\ADO_Lab3\ADO_Lab3\obj\Debug\ADO_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\ADO_Lab3\ADO_Lab3\obj\Debug\ADO_Lab3.exe
+C:\Users\kiril\source\repos\ADO_Lab3\ADO_Lab3\obj\Debug\ADO_Lab3.pdb
