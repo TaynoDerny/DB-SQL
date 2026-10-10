@@ -1,0 +1,7 @@
+C:\Users\kiril\source\repos\VegetablesApp\VegetablesApp\bin\Debug\VegetablesApp.exe.config
+C:\Users\kiril\source\repos\VegetablesApp\VegetablesApp\bin\Debug\VegetablesApp.exe
+C:\Users\kiril\source\repos\VegetablesApp\VegetablesApp\bin\Debug\VegetablesApp.pdb
+C:\Users\kiril\source\repos\VegetablesApp\VegetablesApp\obj\Debug\VegetablesApp.csproj.AssemblyReference.cache
+C:\Users\kiril\source\repos\VegetablesApp\VegetablesApp\obj\Debug\VegetablesApp.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\VegetablesApp\VegetablesApp\obj\Debug\VegetablesApp.exe
+C:\Users\kiril\source\repos\VegetablesApp\VegetablesApp\obj\Debug\VegetablesApp.pdb
