@@ -1,0 +1,7 @@
+C:\Users\kiril\source\repos\AdoNetLab2\AdoNetLab2\bin\Debug\AdoNetLab2.exe.config
+C:\Users\kiril\source\repos\AdoNetLab2\AdoNetLab2\bin\Debug\AdoNetLab2.exe
+C:\Users\kiril\source\repos\AdoNetLab2\AdoNetLab2\bin\Debug\AdoNetLab2.pdb
+C:\Users\kiril\source\repos\AdoNetLab2\AdoNetLab2\obj\Debug\AdoNetLab2.csproj.AssemblyReference.cache
+C:\Users\kiril\source\repos\AdoNetLab2\AdoNetLab2\obj\Debug\AdoNetLab2.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\AdoNetLab2\AdoNetLab2\obj\Debug\AdoNetLab2.exe
+C:\Users\kiril\source\repos\AdoNetLab2\AdoNetLab2\obj\Debug\AdoNetLab2.pdb
