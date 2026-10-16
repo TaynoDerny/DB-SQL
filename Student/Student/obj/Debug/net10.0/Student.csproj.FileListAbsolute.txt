@@ -1,0 +1,15 @@
+C:\Users\kiril\source\repos\Student\Student\bin\Debug\net10.0\Student.exe
+C:\Users\kiril\source\repos\Student\Student\bin\Debug\net10.0\Student.deps.json
+C:\Users\kiril\source\repos\Student\Student\bin\Debug\net10.0\Student.runtimeconfig.json
+C:\Users\kiril\source\repos\Student\Student\bin\Debug\net10.0\Student.dll
+C:\Users\kiril\source\repos\Student\Student\bin\Debug\net10.0\Student.pdb
+C:\Users\kiril\source\repos\Student\Student\obj\Debug\net10.0\Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril\source\repos\Student\Student\obj\Debug\net10.0\Student.AssemblyInfoInputs.cache
+C:\Users\kiril\source\repos\Student\Student\obj\Debug\net10.0\Student.AssemblyInfo.cs
+C:\Users\kiril\source\repos\Student\Student\obj\Debug\net10.0\Student.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\Student\Student\obj\Debug\net10.0\Student.dll
+C:\Users\kiril\source\repos\Student\Student\obj\Debug\net10.0\refint\Student.dll
+C:\Users\kiril\source\repos\Student\Student\obj\Debug\net10.0\Student.pdb
+C:\Users\kiril\source\repos\Student\Student\obj\Debug\net10.0\Student.genruntimeconfig.cache
+C:\Users\kiril\source\repos\Student\Student\obj\Debug\net10.0\ref\Student.dll
+C:\Users\kiril\source\repos\Student\Student\obj\Debug\net10.0\Student.csproj.Up2Date

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<university>
+  <course name="Программирование">
+    <student name="Кирилл" gra="3.9" />
+    <student name="Лариса" gra="4.7" />
+    <student name="Михаил" gra="3.2" />
+    <student name="Наталья" gra="4.1" />
+  </course>
+</university>
