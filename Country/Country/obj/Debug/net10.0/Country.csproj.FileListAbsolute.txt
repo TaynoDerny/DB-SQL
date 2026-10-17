@@ -1,0 +1,15 @@
+C:\Users\kiril\source\repos\Country\Country\obj\Debug\net10.0\Country.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril\source\repos\Country\Country\obj\Debug\net10.0\Country.AssemblyInfoInputs.cache
+C:\Users\kiril\source\repos\Country\Country\obj\Debug\net10.0\Country.AssemblyInfo.cs
+C:\Users\kiril\source\repos\Country\Country\obj\Debug\net10.0\Country.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\Country\Country\bin\Debug\net10.0\Country.exe
+C:\Users\kiril\source\repos\Country\Country\bin\Debug\net10.0\Country.deps.json
+C:\Users\kiril\source\repos\Country\Country\bin\Debug\net10.0\Country.runtimeconfig.json
+C:\Users\kiril\source\repos\Country\Country\bin\Debug\net10.0\Country.dll
+C:\Users\kiril\source\repos\Country\Country\bin\Debug\net10.0\Country.pdb
+C:\Users\kiril\source\repos\Country\Country\obj\Debug\net10.0\Country.dll
+C:\Users\kiril\source\repos\Country\Country\obj\Debug\net10.0\refint\Country.dll
+C:\Users\kiril\source\repos\Country\Country\obj\Debug\net10.0\Country.pdb
+C:\Users\kiril\source\repos\Country\Country\obj\Debug\net10.0\Country.genruntimeconfig.cache
+C:\Users\kiril\source\repos\Country\Country\obj\Debug\net10.0\ref\Country.dll
+C:\Users\kiril\source\repos\Country\Country\obj\Debug\net10.0\Country.csproj.Up2Date
