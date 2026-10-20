@@ -1,0 +1,7 @@
+C:\Users\kiril\source\repos\CountriesDB1\CountriesDB1\bin\Debug\CountriesDB1.exe.config
+C:\Users\kiril\source\repos\CountriesDB1\CountriesDB1\bin\Debug\CountriesDB1.exe
+C:\Users\kiril\source\repos\CountriesDB1\CountriesDB1\bin\Debug\CountriesDB1.pdb
+C:\Users\kiril\source\repos\CountriesDB1\CountriesDB1\obj\Debug\CountriesDB1.csproj.AssemblyReference.cache
+C:\Users\kiril\source\repos\CountriesDB1\CountriesDB1\obj\Debug\CountriesDB1.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\CountriesDB1\CountriesDB1\obj\Debug\CountriesDB1.exe
+C:\Users\kiril\source\repos\CountriesDB1\CountriesDB1\obj\Debug\CountriesDB1.pdb
