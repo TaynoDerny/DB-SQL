@@ -1,0 +1,17 @@
+C:\Users\kiril\source\repos\GameStore\GameStore.Data\obj\Debug\net10.0\GameStore.Data.csproj.AssemblyReference.cache
+C:\Users\kiril\source\repos\GameStore\GameStore.Data\obj\Debug\net10.0\GameStore.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril\source\repos\GameStore\GameStore.Data\obj\Debug\net10.0\GameStore.Data.AssemblyInfoInputs.cache
+C:\Users\kiril\source\repos\GameStore\GameStore.Data\obj\Debug\net10.0\GameStore.Data.AssemblyInfo.cs
+C:\Users\kiril\source\repos\GameStore\GameStore.Data\obj\Debug\net10.0\GameStore.Data.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\GameStore\GameStore.Data\bin\Debug\net10.0\GameStore.Data.deps.json
+C:\Users\kiril\source\repos\GameStore\GameStore.Data\bin\Debug\net10.0\GameStore.Data.runtimeconfig.json
+C:\Users\kiril\source\repos\GameStore\GameStore.Data\bin\Debug\net10.0\GameStore.Data.dll
+C:\Users\kiril\source\repos\GameStore\GameStore.Data\bin\Debug\net10.0\GameStore.Data.pdb
+C:\Users\kiril\source\repos\GameStore\GameStore.Data\bin\Debug\net10.0\GameStore.Models.dll
+C:\Users\kiril\source\repos\GameStore\GameStore.Data\bin\Debug\net10.0\GameStore.Models.pdb
+C:\Users\kiril\source\repos\GameStore\GameStore.Data\obj\Debug\net10.0\GameStor.4D4E49D2.Up2Date
+C:\Users\kiril\source\repos\GameStore\GameStore.Data\obj\Debug\net10.0\GameStore.Data.dll
+C:\Users\kiril\source\repos\GameStore\GameStore.Data\obj\Debug\net10.0\refint\GameStore.Data.dll
+C:\Users\kiril\source\repos\GameStore\GameStore.Data\obj\Debug\net10.0\GameStore.Data.pdb
+C:\Users\kiril\source\repos\GameStore\GameStore.Data\obj\Debug\net10.0\GameStore.Data.genruntimeconfig.cache
+C:\Users\kiril\source\repos\GameStore\GameStore.Data\obj\Debug\net10.0\ref\GameStore.Data.dll
