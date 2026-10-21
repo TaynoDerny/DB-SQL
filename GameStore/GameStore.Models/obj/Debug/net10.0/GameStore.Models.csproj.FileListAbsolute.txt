@@ -1,0 +1,12 @@
+C:\Users\kiril\source\repos\GameStore\GameStore.Models\bin\Debug\net10.0\GameStore.Models.deps.json
+C:\Users\kiril\source\repos\GameStore\GameStore.Models\bin\Debug\net10.0\GameStore.Models.dll
+C:\Users\kiril\source\repos\GameStore\GameStore.Models\bin\Debug\net10.0\GameStore.Models.pdb
+C:\Users\kiril\source\repos\GameStore\GameStore.Models\obj\Debug\net10.0\GameStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril\source\repos\GameStore\GameStore.Models\obj\Debug\net10.0\GameStore.Models.AssemblyInfoInputs.cache
+C:\Users\kiril\source\repos\GameStore\GameStore.Models\obj\Debug\net10.0\GameStore.Models.AssemblyInfo.cs
+C:\Users\kiril\source\repos\GameStore\GameStore.Models\obj\Debug\net10.0\GameStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\GameStore\GameStore.Models\obj\Debug\net10.0\GameStore.Models.dll
+C:\Users\kiril\source\repos\GameStore\GameStore.Models\obj\Debug\net10.0\refint\GameStore.Models.dll
+C:\Users\kiril\source\repos\GameStore\GameStore.Models\obj\Debug\net10.0\GameStore.Models.pdb
+C:\Users\kiril\source\repos\GameStore\GameStore.Models\obj\Debug\net10.0\ref\GameStore.Models.dll
+C:\Users\kiril\source\repos\GameStore\GameStore.Models\obj\Debug\net10.0\GameStor.F3BDC899.Up2Date
