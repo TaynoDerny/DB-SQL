@@ -1,0 +1,12 @@
+C:\Users\kiril\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.AssemblyReference.cache
+C:\Users\kiril\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
+C:\Users\kiril\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.exe
+C:\Users\kiril\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.pdb
+C:\Users\kiril\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\EntityFramework.dll
+C:\Users\kiril\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kiril\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\EntityFramework.xml
+C:\Users\kiril\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kiril\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleA.80A3567F.Up2Date
+C:\Users\kiril\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.exe
+C:\Users\kiril\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.pdb
