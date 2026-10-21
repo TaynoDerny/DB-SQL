@@ -1,0 +1,7 @@
+C:\Users\kiril\source\repos\CountriesReportApp\CountriesReportApp\bin\Debug\CountriesReportApp.exe.config
+C:\Users\kiril\source\repos\CountriesReportApp\CountriesReportApp\bin\Debug\CountriesReportApp.exe
+C:\Users\kiril\source\repos\CountriesReportApp\CountriesReportApp\bin\Debug\CountriesReportApp.pdb
+C:\Users\kiril\source\repos\CountriesReportApp\CountriesReportApp\obj\Debug\CountriesReportApp.csproj.AssemblyReference.cache
+C:\Users\kiril\source\repos\CountriesReportApp\CountriesReportApp\obj\Debug\CountriesReportApp.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\CountriesReportApp\CountriesReportApp\obj\Debug\CountriesReportApp.exe
+C:\Users\kiril\source\repos\CountriesReportApp\CountriesReportApp\obj\Debug\CountriesReportApp.pdb
